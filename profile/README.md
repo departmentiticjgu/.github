@@ -1,12 +1,7 @@
-## Hi there 👋
+### <p align="center"><b>Welcome to Department ITIC JGU</b></p>
 
-<!--
+------------
 
-**Here are some ideas to get you started:**
+## History
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="justify">Information Technology and Innovation Centre has an important role in the journey of Jakarta Global University (JGU) as a higher education institution in Indonesia. JGU is actively involved in various activities, ranging from research, developing Management Information Systems, to building computer network infrastructure, all of which are closely related to advances in information technology on campus. The development of the global internet increasingly encourages JGU to take an active role in the development of information technology.</p>
