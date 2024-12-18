@@ -1,5 +1,7 @@
 ### <p align="center"><b>Welcome to Department ITIC JGU</b></p>
 
+![Untitled (1)](https://github.com/user-attachments/assets/8cfbf9d6-30c6-4440-aca7-4d82d0b706a2)
+
 ------------
 
 ## 🤔 History
